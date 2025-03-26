@@ -1,0 +1,23 @@
+
+---
+
+### **2. 27_EndpointLatencyProbe**  
+**Description:**  
+A CLI tool that checks multiple endpoints and logs their latency and response status.
+
+#### **README.md**
+```markdown
+# EndpointLatencyProbe - API Health and Timing Monitor
+
+EndpointLatencyProbe measures response time and status codes from public or private HTTP endpoints.
+
+## Features
+- Logs to console or file  
+- Custom timeout support  
+- Easy to use  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_EndpointLatencyProbe.git
+cd 27_EndpointLatencyProbe
+python monitor.py
