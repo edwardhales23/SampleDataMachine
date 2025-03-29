@@ -1,0 +1,23 @@
+
+---
+
+### **4. 27_LiveGraphDisplay**  
+**Description:**  
+Plots numeric data in real time using Matplotlib with a clean interface.
+
+#### **README.md**
+```markdown
+# LiveGraphDisplay - Real-Time Data Plotting Tool
+
+LiveGraphDisplay animates incoming values as a scrolling line chart for live monitoring.
+
+## Features
+- Dynamic line chart  
+- Configurable update interval  
+- Minimal UI  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LiveGraphDisplay.git
+cd 27_LiveGraphDisplay
+python visualize.py
