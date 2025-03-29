@@ -1,0 +1,23 @@
+
+---
+
+### **3. 27_LogNoiseReducer**  
+**Description:**  
+Analyzes logs and filters out high-frequency noise to reveal real problems.
+
+#### **README.md**
+```markdown
+# LogNoiseReducer - Smart Log Analyzer
+
+LogNoiseReducer detects repeated log lines, filters out known “noise,” and highlights anomalies.
+
+## Features
+- Frequency filtering  
+- Regex-based line skipping  
+- Works with large logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LogNoiseReducer.git
+cd 27_LogNoiseReducer
+python analyze.py mylog.log
